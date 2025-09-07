@@ -1,0 +1,22 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a> </small></div>
+<div class="container" id="centerstack">
+<img src="glance/oasis/oasis-1.jpg">
+<div class="container" id="centerspacer"></div>
+<img src="glance/oasis/oasis-2.jpg">
+<div class="container" id="centerspacer"></div>
+<img src="glance/oasis/oasis-3.jpg">
+<div class="container" id="centerspacer"></div>
+<img src="glance/oasis/oasis-4.jpg">
+<div class="container" id="centerspacer"></div>
+<small>2014</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

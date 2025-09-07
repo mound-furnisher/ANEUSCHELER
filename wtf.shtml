@@ -1,0 +1,39 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="scroller">
+<img src="images/a_neuscheler_wtf_flying1.jpg">
+<img src="images/a_neuscheler_wtf_overview3.jpg">
+<img src="images/a_neuscheler_wtf_cave6.jpg">
+<img src="images/a_neuscheler_wtf_cave2.jpg">
+<img src="images/a_neuscheler_wtf_cave3.jpg">
+<img src="images/a_neuscheler_wtf_sara2.jpg">
+<img src="images/a_neuscheler_wtf_sara1.jpg">
+<img src="images/a_neuscheler_wtf_sleep2.jpg">
+<img src="images/a_neuscheler_wtf_sleep1.jpg">
+<img src="images/a_neuscheler_wtf_sara3.jpg">
+<img src="images/a_neuscheler_wtf_sara5.jpg">
+<img src="images/a_neuscheler_wtf_rest1.jpg">
+<img src="images/a_neuscheler_wtf_overview1.jpg">
+<img src="images/a_neuscheler_wtf_sara4.jpg">
+<img src="images/a_neuscheler_wtf_overview2.jpg">
+<img src="images/a_neuscheler_wtf_sara7.jpg">
+<img src="images/a_neuscheler_wtf_flying2.jpg">
+<img src="images/a_neuscheler_wtf_sara6.jpg">
+<img src="images/a_neuscheler_wtf_sara8.jpg">
+<img src="images/a_neuscheler_wtf_torch1.jpg">
+<img src="images/a_neuscheler_wtf_backroom1.jpg">
+<img src="images/a_neuscheler_wtf_backroom3.jpg">
+<img src="images/a_neuscheler_wtf_backroom2.jpg">
+<img src="images/a_neuscheler_wtf_backroom4.jpg">
+<p>
+<small>Weird Trance Force was a show by A. Neuscheler and S. Haley in the spring of 2013, full of hope for the future.</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

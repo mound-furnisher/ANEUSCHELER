@@ -1,0 +1,18 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+<img src="images/a_neuscheler_object_1.jpg">
+<p>
+<img src="images/a_neuscheler_object_2.jpg">
+<p>
+<small>vertically projected looped video 2012</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

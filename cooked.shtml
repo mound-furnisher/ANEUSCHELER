@@ -1,0 +1,25 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+<p>
+<img src="images/a_neuscheler_cooked1.jpg">
+<p>
+<img src="images/a_neuscheler_cooked2.jpg">
+<p>
+<img src="images/a_neuscheler_cooked3.jpg">
+<p>
+<img src="images/a_neuscheler_cooked4.jpg">
+<p>
+<small>
+colored resin, 2017
+</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

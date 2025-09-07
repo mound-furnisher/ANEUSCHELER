@@ -1,0 +1,25 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+
+<small>she laid down to sleep <br>
+taking off her bone white skin <br>
+naked but painted </small>
+<p>
+<img src="images/a_neuscheler_ladyofthenight_1.jpg">
+<p>
+<img src="images/a_neuscheler_ladyofthenight_2.jpg">
+<p>
+<img src="images/a_neuscheler_ladyofthenight_3.jpg">
+<p>
+<small>wood, metal, paint, haiku, mattress, bedsheets and comforter 2014</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

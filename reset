@@ -1,0 +1,5 @@
+<script src="scripts/js.cookie.js"></script>
+<script>
+  Cookies.remove("clicks")
+  window.location.replace("firstimpression.shtml")
+</script>

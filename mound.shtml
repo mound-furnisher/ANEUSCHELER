@@ -1,0 +1,33 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+<p>
+    <iframe src="https://player.vimeo.com/video/661651436?h=3c9840f58a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="BROOD X.1"></iframe>
+    <br>
+    <br>
+    <br>
+    <iframe src="https://player.vimeo.com/video/661652614?h=2aae15023d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="BROOD X.2"></iframe>
+    <br>
+    <br>
+    <br>
+    <iframe src="https://player.vimeo.com/video/661652750?h=1d6070ac9e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="BROOD X.3"></iframe>
+    <br>
+    <br>
+    <br>
+    <iframe src="https://player.vimeo.com/video/661652921?h=50af02e878&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1080" height="608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="BROOD X.4"></iframe>
+    <br>
+    <br>
+<p>
+<small>
+MOUND is a multi-disciplinary furniture design and fabrication house based in Richmond VA on Powhatan land. BROOD X is documentation of MOUND's first seed collection of furniture Group 1, made in collaboration with Charles Gushue, Robert Woofter, and Nelly Kate. More can be found online at mound.info/broodx and on instagram at @__mound.__
+</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

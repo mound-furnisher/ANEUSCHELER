@@ -1,0 +1,21 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="scroller">
+<img src="images/a_neuscheler_prancer_01.jpg">
+<img src="images/a_neuscheler_prancer_02.jpg">
+<img src="images/a_neuscheler_prancer_03.jpg">
+<img src="images/a_neuscheler_prancer_04.jpg">
+<img src="images/a_neuscheler_prancer_05.jpg">
+<img src="images/a_neuscheler_prancer_06.jpg">
+<p>
+<small>paper, plaster, plywood, baluster, drawer slides 2020 </small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

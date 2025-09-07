@@ -1,0 +1,20 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+<img src="images/a_neuscheler_flag_1.jpg">
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6VK9pQlwPBw" frameborder="0" allowfullscreen></iframe>
+<p>
+<small>flag for a failing spaceship
+<p>
+1 minute video loop 2015</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

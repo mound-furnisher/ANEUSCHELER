@@ -1,0 +1,28 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+<p>
+<img src="images/a_neuscheler_river1.jpg">
+<p>
+<img src="images/a_neuscheler_river2.jpg">
+<p>
+<img src="images/a_neuscheler_river3.jpg">
+<p>
+<img src="images/a_neuscheler_river4.jpg">
+<p>
+<img src="images/a_neuscheler_river5.jpg">
+<p>
+<small>
+~3650 aluminum cans, gorilla glue, hardware, fishing line, sandbags 2017 <p>
+completed in woodstock, ny at hoy hoy residency
+</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

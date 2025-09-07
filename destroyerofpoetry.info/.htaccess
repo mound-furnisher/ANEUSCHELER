@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^destroyerofpoetry\.info$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.destroyerofpoetry\.info$
+RewriteRule ^/?$ "http\:\/\/aneuscheler\.info\/destroyerofpoetry\/page\.shtml" [R=301,L]
+

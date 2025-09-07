@@ -1,0 +1,37 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>DESTROYER OF POETRY</title>
+	<style type="text/css">
+
+		a:link {
+			color: #000000;
+			text-decoration: none;
+			}
+
+		a:visited {
+			color: #000000;
+			text-decoration: none;
+			}
+
+		a:hover {
+			color: #000000;
+			text-decoration: underline;
+			}
+
+		a:active {
+			color: #000000;
+			text-decoration: none;
+			}			
+	</style>
+</head>
+
+<frameset rows="10%, 90%" frameborder="0" border="0" framespacing="0">
+      <frame src="title.shtml">
+      <frame src="dop1.shtml">
+<p><center><small>please click on images to navigate</small></center></p>
+</frameset>
+
+
+
+</html>

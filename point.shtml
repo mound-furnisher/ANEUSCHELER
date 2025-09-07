@@ -1,0 +1,23 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="scroller">
+<table style="width:5000px">
+<tr>
+<td style="width:1000px"><img src="images/a_neuscheler_point_1.jpg"></td>
+<td style="width:4000px"></td>
+<td style="width:1000px"><img src="images/a_neuscheler_point_2.jpg"></td>
+</tr>
+</table>
+<p>
+<small>2014</small>
+</p>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

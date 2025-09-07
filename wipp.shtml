@@ -1,0 +1,25 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+<table style="width:576px">
+<tr>
+<td><small>
+Collaborative submission to Arch Out Loud's NUCLEAR competition completed with  architect Daniel Van Dyk in 2017. The submission proposes a series of  monumental stone rings and lead plugs to designate a dangerous and 
+    sacred area around the Waste Isolation Pilot Plant's (WIPP) massive 
+    underground nuclear disposal area. The New Mexican site's toxic contents would be protected from intervention through the formation of a religion with its main precepts being the sacredness of the ground underneath and the care thereof.
+    
+<p><a href="images/a_neuscheler_wipp.jpg">WIPP PROPOSAL BOARD</a></p>
+</small>
+</td>
+</tr>
+</table>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

@@ -1,0 +1,32 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a> </small></div>
+<div class="container" id="centerstack">
+<img src="images/a_neuscheler_people_1.jpg">
+<small>chris</small>
+<div class="container" id="centerspacer"></div>
+<img src="images/a_neuscheler_people_2.jpg">
+<small>micah</small>
+<div class="container" id="centerspacer"></div>
+<img src="images/a_neuscheler_people_3.jpg">
+<small>wayne</small>
+<div class="container" id="centerspacer"></div>
+<img src="images/a_neuscheler_people_4.jpg">
+<small>emma</small>
+<div class="container" id="centerspacer"></div>
+<img src="images/a_neuscheler_people_5.jpg">
+<small>kevin</small>
+<div class="container" id="centerspacer"></div>
+<img src="images/a_neuscheler_people_6.jpg">
+<small>dilan and kevin</small>
+<div class="container" id="centerspacer"></div>
+<small>2014</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>

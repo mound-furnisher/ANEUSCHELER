@@ -1,0 +1,7 @@
+<!--#include virtual="scripts/scripts.html" -->
+<script>
+  state = getState();
+  state["bypassed"] = true;
+  setState(state);
+  window.location.replace("home.shtml")
+</script>

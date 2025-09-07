@@ -1,0 +1,24 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>A.NEUSCHELER</title>
+	<!--#include virtual="style.shtml" -->
+</head>
+<body>
+<div class="container" id="navi"><small><a href="home.shtml">A.NEUSCHELER</a><br></small></div>
+<div class="container" id="simplestack">
+<small>
+<p>
+Water dissolving and water removing <br>
+There is water at the bottom of the ocean
+<p>
+</small>
+<img src="images/a_neuscheler_waterflowingunderground_1.jpg">
+<p>
+<img src="images/a_neuscheler_waterflowingunderground_2.jpg">
+<p>
+<small>maple, steel, paint 2016</small>
+</div>
+<!--#include virtual="scripts/scripts.html" -->
+</body>
+</html>
